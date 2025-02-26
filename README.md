@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Apply filters to SQL queries](https://github.com/ChristopherGudzak/Apply-filters-to-SQL-queries)
+
 - [Password Strength Analyzer](https://github.com/ChristopherGudzak/Password-Strength-Analyzer.git)
 
 <h2> Certifications </h2>
