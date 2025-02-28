@@ -10,6 +10,8 @@
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ZXNDZ51RV11S)
 
+- [FEMA National Incident Management System (NIMS): ICS-100](https://imgur.com/eH3v81f.png)
+
 - [SOC Fundamentals course](https://app.letsdefend.io/my-rewards/detail/825bb3bca6a941e89c11e6dc7f0e40ae)
 
 - [CompTia Security+] In process - expected May 2025
