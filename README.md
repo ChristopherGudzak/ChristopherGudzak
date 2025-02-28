@@ -10,7 +10,7 @@
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ZXNDZ51RV11S)
 
-- [FEMA National Incident Management System (NIMS): ICS-100](https://imgur.com/eH3v81f.png)
+- [FEMA National Incident Management System (NIMS): ICS-100](https://github.com/ChristopherGudzak/ChristopherGudzak/blob/main/FEMA_NIMS_ICS-100.pdf)
 
 - [SOC Fundamentals course](https://app.letsdefend.io/my-rewards/detail/825bb3bca6a941e89c11e6dc7f0e40ae)
 
