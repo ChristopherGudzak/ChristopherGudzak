@@ -16,6 +16,10 @@
 
 - [SOC Fundamentals course](https://app.letsdefend.io/my-rewards/detail/825bb3bca6a941e89c11e6dc7f0e40ae)
 
+<h2> Resumes </h2>
+
+- 
+- 
 
 <h2> 🤳 Connect with me:</h2>
 
