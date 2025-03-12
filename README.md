@@ -18,8 +18,8 @@
 
 <h2> Resumes </h2>
 
-- 
-- 
+- [Cybersecurity Resume](https://github.com/ChristopherGudzak/ChristopherGudzak/blob/main/Cybersecurity%20Resume.pdf)
+- [A/V Tech | Event Rigging Resume](https://github.com/ChristopherGudzak/ChristopherGudzak/blob/main/Christopher_Gudzak_Resume_AV.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
